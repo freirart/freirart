@@ -7,7 +7,7 @@
 
 ### Greetings! 👋
 
-- ☕ I'm 18 years old
+- ☕ I'm 18 years old.
 - 🏝 Praia Grande, São Paulo.
 - 👨‍💻 I've been in contact with computers since I remember. 
 - 👶 I started learning Web Development when I was 16.
