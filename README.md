@@ -1,9 +1,9 @@
 # Artur Freire 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=#7c01fe&link=https://www.linkedin.com/in/freirart/)](https://www.linkedin.com/in/freirart/)
-[![Instagram](https://img.shields.io/badge/-Instagram-ff69b4?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/freirart//)](https://www.linkedin.com/in/freirart/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:freirart.contato@gmail.com)](mailto:freirart.contato@gmail.com)
-[![Whatsapp](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5512988344336&text=Olá!)](https://api.whatsapp.com/send?phone=5513996254629&text=Olá!)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-7c01fe?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/freirart/)](https://www.linkedin.com/in/freirart/)
+[![Instagram](https://img.shields.io/badge/-Instagram-7c01fe?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/freirart//)](https://www.linkedin.com/in/freirart/)
+[![Gmail](https://img.shields.io/badge/-Gmail-7c01fe?style=flat-square&logo=Gmail&logoColor=white&link=mailto:freirart.contato@gmail.com)](mailto:freirart.contato@gmail.com)
+[![Whatsapp](https://img.shields.io/badge/-Whatsapp-7c01fe?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5512988344336&text=Olá!)](https://api.whatsapp.com/send?phone=5513996254629&text=Olá!)
 
 ![Greetings!👋](https://raw.githubusercontent.com/freirart/freirart/master/hello_world.gif)
 
