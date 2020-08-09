@@ -9,7 +9,7 @@ Artur Freire
 ![Gmail](https://img.shields.io/badge/-Gmail-7c01fe?style=flat-square&logo=Gmail&logoColor=white&link=mailto:freirart.contato@gmail.com)
 ![Whatsapp](https://img.shields.io/badge/-Whatsapp-7c01fe?style=flat-square&labelColor=7c01fe&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5512988344336&text=Olá!)
 
-![Greetings!👋](https://media0.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif)
+<iframe src="https://giphy.com/embed/MeJgB3yMMwIaHmKD4z"  height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 </h2>
 
