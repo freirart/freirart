@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:freirart.contato@gmail.com)](mailto:freirart.contato@gmail.com)
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5512988344336&text=Olá!)](https://api.whatsapp.com/send?phone=5513996254629&text=Olá!)
 
-![Greetings!👋](https://i.postimg.cc/mZcTfDVV/hello-world.gif)
+![Greetings!👋](https://raw.githubusercontent.com/freirart/freirart/master/hello_world.gif)
 
 - ☕ 19 years old.
 - 🏝 Praia Grande, São Paulo.
