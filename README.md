@@ -1,4 +1,5 @@
-# Artur Freire 
+<h1 align="center">
+Artur Freire 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-7c01fe?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/freirart/)](https://www.linkedin.com/in/freirart/)
 [![Instagram](https://img.shields.io/badge/-Instagram-7c01fe?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/freirart//)](https://www.linkedin.com/in/freirart/)
@@ -6,6 +7,8 @@
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-7c01fe?style=flat-square&labelColor=7c01fe&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5512988344336&text=Olá!)](https://api.whatsapp.com/send?phone=5513996254629&text=Olá!)
 
 ![Greetings!👋](https://raw.githubusercontent.com/freirart/freirart/master/hello_world.gif)
+
+</h1>
 
 - ☕ 19 years old.
 - 🏝 Praia Grande, São Paulo.
