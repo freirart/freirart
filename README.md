@@ -1,4 +1,4 @@
-# 👾 Artur Freire 
+# Artur Freire 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/freirart/)](https://www.linkedin.com/in/freirart/)
 [![Instagram](https://img.shields.io/badge/-Instagram-ff69b4?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/freirart//)](https://www.linkedin.com/in/freirart/)
@@ -7,7 +7,7 @@
 
 ![Greetings!👋](https://i.postimg.cc/mZcTfDVV/hello-world.gif)
 
-- ☕ 18 years old.
+- ☕ 19 years old.
 - 🏝 Praia Grande, São Paulo.
 - 👨‍💻 been in contact with computers since I remember. 
 - 👶 started learning Web Development when I was 16.
