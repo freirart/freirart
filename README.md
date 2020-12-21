@@ -1,5 +1,5 @@
 <h1 align="center">
-Artur Freire
+hi 👋, I'm Artur
 </h1>
 
 <h2 align="center">
@@ -24,8 +24,5 @@ Artur Freire
 </h2>
 
 - ☕ 19 years old.
-- 🏝 Praia Grande, São Paulo.
-- 👨‍💻 been in contact with computers since I remember. 
-- 👶 started learning Web Development when I was 16.
-- 🚀 currently learning React, React Native and NodeJS.
-- 👀 look out the repositories and you will find cool things!
+- 🏝 São Paulo - Brazil.
+- 🚀 currently learning React, NodeJS & Python.
