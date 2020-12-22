@@ -7,14 +7,17 @@ hi 👋, I'm Artur
 <a href="https://www.linkedin.com/in/freirart"> 
   <img alt="LinkedIn Logo" src="https://img.shields.io/badge/-LinkedIn-424242?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=2867B2" />
 </a>
-<a href="https://www.instagram.com/freirart"> 
-  <img alt="Instagram Logo" src="https://img.shields.io/badge/-Instagram-424242?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=E1306C" />
-</a>
 <a href="mailto:freirart.contato@gmail.com"> 
   <img alt="Gmail Logo" src="https://img.shields.io/badge/-Gmail-424242?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=EA4335" />
 </a>
 <a href="https://api.whatsapp.com/send?phone=5512988344336&text=Olá!"> 
   <img alt="WhatsApp Logo" src="https://img.shields.io/badge/-WhatsApp-424242?style=for-the-badge&labelColor=25d366&logo=whatsapp&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/freirart"> 
+  <img alt="Instagram Logo" src="https://img.shields.io/badge/-Instagram-424242?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=E1306C" />
+</a>
+<a href="https://www.twitter.com/freirart">
+  <img alt="Twitter Logo" src="https://img.shields.io/badge/-Twitter-424242?style=for-the-badge&logo=Twitter&logoColor=white&labelColor=00ACEE" />
 </a>
 
 </h2>
