@@ -1,5 +1,5 @@
 <h1 align="center">
-hi 👋, I'm Artur
+Hi 👋, I'm Artur!
 </h1>
 
 <h2 align="center">
@@ -28,4 +28,4 @@ hi 👋, I'm Artur
 
 - ☕ 19 years old.
 - 🏝 São Paulo - Brazil.
-- 🚀 currently learning React, NodeJS & Python.
+- 🚀 currently working with React, NodeJS & Python.
