@@ -25,4 +25,4 @@ Hi 👋, I'm Artur!
 
 - ☕ 19 years old.
 - 🏝 São Paulo - Brazil.
-- 🚀 currently working with React, NodeJS & Python.
+- 🚀 currently working with ReactJS, NodeJS and Python.
