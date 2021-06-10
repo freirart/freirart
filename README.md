@@ -13,9 +13,6 @@ Hi 👋, I'm Artur!
 <a href="https://www.instagram.com/freirart"> 
   <img alt="Instagram Logo" src="https://img.shields.io/badge/-Instagram-424242?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=E1306C" />
 </a>
-<a href="https://www.twitter.com/freirart">
-  <img alt="Twitter Logo" src="https://img.shields.io/badge/-Twitter-424242?style=for-the-badge&logo=Twitter&logoColor=white&labelColor=00ACEE" />
-</a>
 
 </h2>
 
