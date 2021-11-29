@@ -13,6 +13,6 @@
  <img src="https://raw.githubusercontent.com/freirart/freirart/master/readme.gif" width="300" alt="greetings!" />
 </h2>
 
-- ☕ 20 anos.
-- 🏖 São Paulo.
+- 🧑🏻‍💻 20 anos.
+- 🇧🇷 São Paulo.
 - 🚀 Trabalhando com ReactJS, NodeJS e Python.
